@@ -1,0 +1,15 @@
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.csproj.AssemblyReference.cache
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.AssemblyInfoInputs.cache
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.AssemblyInfo.cs
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.csproj.CoreCompileInputs.cache
+C:\dev\git\psi-api\Pis.Data\bin\Debug\net8.0\Psi.Data.deps.json
+C:\dev\git\psi-api\Pis.Data\bin\Debug\net8.0\Psi.Data.dll
+C:\dev\git\psi-api\Pis.Data\bin\Debug\net8.0\Psi.Data.pdb
+C:\dev\git\psi-api\Pis.Data\bin\Debug\net8.0\Psi.Domain.dll
+C:\dev\git\psi-api\Pis.Data\bin\Debug\net8.0\Psi.Domain.pdb
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.csproj.Up2Date
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.dll
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\refint\Psi.Data.dll
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\Psi.Data.pdb
+C:\dev\git\psi-api\Pis.Data\obj\Debug\net8.0\ref\Psi.Data.dll

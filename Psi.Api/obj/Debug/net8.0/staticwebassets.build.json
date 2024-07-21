@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2KWEogsJGf8l4Cg64MEoWSWKOTkTUDrBUFNMRg9YXs4=",
+  "Source": "Psi.Api",
+  "BasePath": "_content/Psi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

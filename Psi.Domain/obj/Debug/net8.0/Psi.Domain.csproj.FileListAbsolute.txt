@@ -1,0 +1,12 @@
+C:\dev\git\psi-api\User.Domain\bin\Debug\net8.0\Psi.Domain.deps.json
+C:\dev\git\psi-api\User.Domain\bin\Debug\net8.0\Psi.Domain.dll
+C:\dev\git\psi-api\User.Domain\bin\Debug\net8.0\Psi.Domain.pdb
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.csproj.AssemblyReference.cache
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.AssemblyInfoInputs.cache
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.AssemblyInfo.cs
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.csproj.CoreCompileInputs.cache
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.dll
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\refint\Psi.Domain.dll
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\Psi.Domain.pdb
+C:\dev\git\psi-api\User.Domain\obj\Debug\net8.0\ref\Psi.Domain.dll

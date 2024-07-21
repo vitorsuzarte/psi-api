@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNTY3SDWODDW8vXuvTNrke/inZ7LdQthCVN8NfHrOtRp31l7jnQy0Ko3A5RoH/Eyq+T3R1vninJngUFxTp82ow==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\git\\psi-api\\User.Domain\\Psi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
